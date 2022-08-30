@@ -1,0 +1,16 @@
+{
+  "name": "tanghuayonline",
+  "theme": "ui",
+  "version": "1.0.0",
+  "description": "แทงหวยออนไลน์ จ่ายสูงสุดบาทละ 100 หวยฮานอย หวยยี่กี่ หวยหุ้น",
+  "keywords": [
+    "แทงหวยออนไลน์",
+    "หวยฮานอย",
+    "หวยฮานอยเฉพาะกิจ"
+  ],
+  "repository": "https://github.com/jimmytk420/tanghuayonline.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
